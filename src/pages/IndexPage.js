@@ -21,14 +21,14 @@ const IndexPage = () => {
           <div className="row justify-content-center">
             <div className="col-lg-10">
               <div className="hero-content wow fadeInUp" data-wow-delay="0.3s">
-                <span className="tagline">Best Digital Agency</span>
+                <span className="tagline">Best Consultancy and Tax Agency</span>
                 <h1 className="hero-title">
-                  Digital Solutions Agency For Growth Business
+                Công ty TNHH Tư vấn và Đại lý thuế Thăng Long
                 </h1>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium totam aperiam eaque abillo
-                  inventore veritatis
+                Với đội ngũ lãnh đạo có kinh nghiệm lâu năm trong vận hành doanh nghiệp và công tác trong cơ quan thuế, chúng tôi cam kết đem lại cho các đối tác những dịch vụ kế toán, thuế tốt nhất, tối ưu nhất cho doanh nghiệp của đối tác. 
+Đại lý thuế Thăng Long - Trao uy tín, gặt niềm tin.
+
                 </p>
                 <a href="#" className="template-btn">
                   Get Started With Us <i className="far fa-long-arrow-right" />

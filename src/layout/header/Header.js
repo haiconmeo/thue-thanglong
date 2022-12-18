@@ -32,7 +32,7 @@ const Header = ({ dark }) => {
               <ul className="header-extra">
                 <li className="header-btns d-none d-md-block">
                   <a href="#" className="template-btn">
-                    Let’s Talk
+                    Liên hệ với chúng tôi
                     <i className="far fa-long-arrow-right" />
                   </a>
                 </li>

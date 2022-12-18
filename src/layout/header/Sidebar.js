@@ -20,18 +20,16 @@ const Sidebar = ({ active, close }) => {
           <ul>
             <li>
               <i className="far fa-map-marker-alt" />
-              354 Oakridge, Camden NJ 08102 - USA
+              Số 14 Ngõ 178 Đường Đại Mỗ, Đai Mỗ, Nam Từ Liêm, Hà Nội
             </li>
             <li>
               <i className="far fa-envelope-open" />
-              <a href="mailto:support@Qolle.com">support@Qolle.com</a>
-              <a href="mailto:info@Qolle.com">info@Qolle.com</a>
+              <a href="mailto:support@Qolle.com">dichvuthue.thanglong@gmail.com</a>
             </li>
             <li>
               <i className="far fa-phone" />
-              <a href="tel:+01234567899">+012 (345) 678 99</a>
+              <a href="tel:+01234567899">092 158 31 67</a>
               <br />
-              <a href="tel:+8563214">+8563214</a>
             </li>
           </ul>
         </div>

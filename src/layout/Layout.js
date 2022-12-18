@@ -22,11 +22,11 @@ const Layout = ({ children, noHeader, noFooter }) => {
       <Head>
         <link
           rel="shortcut icon"
-          href="/assets/img/favicon.ico"
+          href="assets/img/logo.ico"
           type="img/png"
         />
         <title>
-          Qolle - Marketing Agency React Nextjs Template || Digital Agency
+        Công ty TNHH Tư vấn và Đại lý thuế Thăng Long
         </title>
         {/* <!--====== Animate Css ======--> */}
         <link rel="stylesheet" href="/assets/css/animate.min.css" />
