@@ -7,7 +7,7 @@ const Nav = () => {
         <li>
           <Link href="/">
             <a>
-              Home
+              Trang chủ
               <span className="dd-trigger">
                 <i className="fas fa-angle-down" />
               </span>
@@ -20,7 +20,7 @@ const Nav = () => {
         <li>
           <Link href="/marketing-services">
             <a>
-              Services
+              Dịch vụ
               <span className="dd-trigger">
                 <i className="fas fa-angle-down" />
               </span>
@@ -33,7 +33,7 @@ const Nav = () => {
         <li>
           <Link href="/portfolio">
             <a>
-              Works
+              Việc làm
               <span className="dd-trigger">
                 <i className="fas fa-angle-down" />
               </span>

@@ -94,6 +94,6 @@ export const Pages = () => (
 );
 export const Contact = () => (
   <Fragment>
-    <Link href={`${rtl()}contact`}>Contact</Link>
+    <Link href={`${rtl()}contact`}>Liên hệ</Link>
   </Fragment>
 );
