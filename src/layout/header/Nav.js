@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Blog, Contact, Home, Pages, Services, Works } from "./menu";
+import { Blog, Contact, Home,Pages, Services, Works } from "./menu";
 const Nav = () => {
   return (
     <nav className="nav-menu d-none d-xl-block">
@@ -33,20 +33,7 @@ const Nav = () => {
         <li>
           <Link href="/portfolio">
             <a>
-              Việc làm
-              <span className="dd-trigger">
-                <i className="fas fa-angle-down" />
-              </span>
-            </a>
-          </Link>
-          <ul className="submenu">
-            <Works />
-          </ul>
-        </li>
-        <li>
-          <Link href="/blog-standard">
-            <a>
-              Blog
+              Tin Tức
               <span className="dd-trigger">
                 <i className="fas fa-angle-down" />
               </span>
@@ -65,6 +52,19 @@ const Nav = () => {
           </a>
           <ul className="submenu">
             <Pages />
+          </ul>
+        </li>
+        <li>
+          <Link href="/blog-standard">
+            <a>
+            Việc làm
+              <span className="dd-trigger">
+                <i className="fas fa-angle-down" />
+              </span>
+            </a>
+          </Link>
+          <ul className="submenu">
+            <Works />
           </ul>
         </li>
         <li>

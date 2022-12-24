@@ -15,8 +15,7 @@ const Index = () => {
         <meta property="og:url" content="https://www.dailythuethanglong.com/" />
         <meta property="og:image" content="https://res.cloudinary.com/dsthxgzde/image/upload/c_scale,w_678/v1671456615/samples/thanglong-tax/b%C3%ACa_c%C3%B3_logo_dqya01.png" />
         <meta property="og:description"
-          content="chúng tôi cam kết đem lại cho các đối tác những dịch vụ kế toán, thuế tốt nhất, tối ưu nhất cho doanh nghiệp của đối tác. 
-          Đại lý thuế Thăng Long - Trao uy tín, gặt niềm tin."/>
+          content="Đại lý thuế Thăng Long - Trao uy tín, gặt niềm tin."/>
 
       </Head>
       <Layout noFooter noHeader>

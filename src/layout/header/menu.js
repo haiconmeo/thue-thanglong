@@ -12,22 +12,14 @@ export const Home = () => {
   return (
     <Fragment>
       <li>
-        <Link href={`${rtl()}`}>SEO Agency</Link>
+        <Link href={`${rtl()}`}>Giới thiệu công ty</Link>
       </li>
       <li>
-        <Link href={`${rtl()}index-2`}>Digital Agency</Link>
+        <Link href={`${rtl()}index-2`}>Cơ cấu ban lãnh đạo, cố vấn</Link>
       </li>
       <li>
-        <Link href={`${rtl()}index-3`}>Marketing Agency</Link>
+        <Link href={`${rtl()}index-3`}>Chương trình hợp tác</Link>
       </li>
-      <li>
-        <Link href={`${rtl()}index-4`}>Digital Agency Dark</Link>
-      </li>
-      {!path && (
-        <li>
-          <Link href={`/index-5`}>Design Studio</Link>
-        </li>
-      )}
     </Fragment>
   );
 };
@@ -60,10 +52,10 @@ export const Works = () => (
 export const Blog = () => (
   <Fragment>
     <li>
-      <Link href={`${rtl()}blog-standard`}>Blog Standard</Link>
+      <Link href={`${rtl()}blog-standard`}>Tin tức</Link>
     </li>
     <li>
-      <Link href={`${rtl()}blog-details`}>Blog Details</Link>
+      <Link href={`${rtl()}blog-details`}>Chính sách, văn bản pháp luật</Link>
     </li>
   </Fragment>
 );

@@ -21,7 +21,7 @@ const IndexPage = () => {
           <div className="row justify-content-center">
             <div className="col-lg-10">
               <div className="hero-content wow fadeInUp" data-wow-delay="0.3s">
-                <span className="tagline">Best Consultancy and Tax Agency</span>
+                <span className="tagline">Best Consultancy and Tax Agent</span>
                 <h1 className="hero-title">
                 Công ty TNHH Tư vấn và Đại lý thuế Thăng Long
                 </h1>
@@ -88,7 +88,7 @@ const IndexPage = () => {
       <section className="service-section section-gap">
         <div className="container">
           <div className="section-heading text-center mb-30">
-            <h2 className="title">Services We Provide</h2>
+            <h2 className="title">Dịch vụ cung cấp</h2>
             <span className="tagline">Best SEO Optimization Agency</span>
           </div>
           <div className="row justify-content-center">

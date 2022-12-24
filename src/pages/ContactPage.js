@@ -11,9 +11,9 @@ const ContactPage = () => {
             <div className="col-xl-5 col-lg-6 col-md-10">
               <div className="section-heading mb-30">
                 <h2 className="title">
-                  Ready To Get Popular Marketing Service
+                Sẵn sàng   kết nối, tư vấn, gặp gỡ, hợp tác
                 </h2>
-                <span className="tagline">Best SEO Optimization Agency</span>
+                <span className="tagline">Best consultancy and Tax Agent</span>
               </div>
               <div className="contact-info-box wow fadeInUp">
                 <div className="single-contact-info">
@@ -21,9 +21,9 @@ const ContactPage = () => {
                     <i className="fal fa-map-marker-alt" />
                   </div>
                   <div className="content">
-                    <h4 className="info-title">Address</h4>
+                    <h4 className="info-title">Địa Chỉ</h4>
                     <p>
-                      7895 Piermont, Albuquerque, <br /> NM 198866, USA
+                    Nhà số 8, ngách 105/2a, ngõ 75 đường Phú Diễn, Phường Phú Diễn, <br /> Quận Bắc Từ Liêm, Thành phố Hà Nội, Việt Nam
                     </p>
                   </div>
                 </div>
@@ -32,9 +32,9 @@ const ContactPage = () => {
                     <i className="fal fa-envelope-open" />
                   </div>
                   <div className="content">
-                    <h4 className="info-title">Email Us</h4>
+                    <h4 className="info-title">Email</h4>
                     <p>
-                      support@gmail.com <br /> www.infomar.net
+                    dichvuthue.thanglong@gmail.com <br /> dailythuethanglong.com
                     </p>
                   </div>
                 </div>
@@ -43,9 +43,9 @@ const ContactPage = () => {
                     <i className="fal fa-phone" />
                   </div>
                   <div className="content">
-                    <h4 className="info-title">Phone</h4>
+                    <h4 className="info-title">Số Điện Thoại</h4>
                     <p>
-                      +012 (345) 678 99 <br /> +12345678
+                    092 158 31 67 <br />
                     </p>
                   </div>
                 </div>
@@ -69,7 +69,7 @@ const ContactPage = () => {
         <h2 className="d-none">title</h2>
         <div className="contact-map">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d162839.89482870552!2d-73.94144927060226!3d40.678878939453796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1630508446475!5m2!1sen!2sbd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.6783441776097!2d105.75794601538554!3d21.045552492579713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313454c229275305%3A0xfc1baff3a430760c!2zTmcuIDc1IMSQLiBQaMO6IERp4buFbiwgUGjDuiBEaeG7hW4sIFThu6sgTGnDqm0sIEjDoCBO4buZaSwgVmlldG5hbQ!5e0!3m2!1sen!2s!4v1671892611037!5m2!1sen!2s"
             loading="lazy"
           />
         </div>
