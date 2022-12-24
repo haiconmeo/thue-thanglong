@@ -15,7 +15,7 @@ export const Home = () => {
         <Link href={`${rtl()}`}>Giới thiệu công ty</Link>
       </li>
       <li>
-        <Link href={`${rtl()}index-2`}>Cơ cấu ban lãnh đạo, cố vấn</Link>
+        <Link href={`${rtl()}team`}>Cơ cấu ban lãnh đạo, cố vấn</Link>
       </li>
       <li>
         <Link href={`${rtl()}index-3`}>Chương trình hợp tác</Link>
@@ -70,9 +70,7 @@ export const Pages = () => (
     <li>
       <Link href={`${rtl()}faq`}>Faq</Link>
     </li>
-    <li>
-      <Link href={`${rtl()}team`}>Our Team</Link>
-    </li>
+
     <li>
       <Link href={`${rtl()}team-details`}>Team Details</Link>
     </li>
