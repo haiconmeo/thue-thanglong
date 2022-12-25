@@ -11,8 +11,6 @@ const PreLoader = () => {
   return (
     <div id="preloader" style={{ display: loading ? "flex" : "none" }}>
       <div id="loading-center">
-      <img src=
-"https://res.cloudinary.com/dvdllbn24/image/upload/v1671977421/daily/logo_btsnzb.png" />
         <div id="object" />
       </div>
     </div>
