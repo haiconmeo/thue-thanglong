@@ -586,32 +586,22 @@ textarea {
 
 @-webkit-keyframes preloader {
   0% {
-    transform: perspective(160px) rotateX(0deg) rotateY(0deg);
-    -webkit-transform: perspective(160px) rotateX(0deg) rotateY(0deg);
-  }
-  50% {
-    transform: perspective(160px) rotateX(-180deg) rotateY(0deg);
-    -webkit-transform: perspective(160px) rotateX(-180deg) rotateY(0deg);
-  }
-  100% {
-    transform: perspective(160px) rotateX(-180deg) rotateY(-180deg);
-    -webkit-transform: perspective(160px) rotateX(-180deg) rotateY(-180deg);
-  }
+    transform: rotate(0deg);
+}
+
+100% {
+    transform: rotate(360deg);
+}
 }
 
 @keyframes preloader {
   0% {
-    transform: perspective(160px) rotateX(0deg) rotateY(0deg);
-    -webkit-transform: perspective(160px) rotateX(0deg) rotateY(0deg);
-  }
-  50% {
-    transform: perspective(160px) rotateX(-180deg) rotateY(0deg);
-    -webkit-transform: perspective(160px) rotateX(-180deg) rotateY(0deg);
-  }
-  100% {
-    transform: perspective(160px) rotateX(-180deg) rotateY(-180deg);
-    -webkit-transform: perspective(160px) rotateX(-180deg) rotateY(-180deg);
-  }
+    transform: rotate(0deg);
+}
+
+100% {
+    transform: rotate(360deg);
+}
 }
 
 @-webkit-keyframes zoom-fade {
@@ -1238,7 +1228,7 @@ textarea {
   top: 0;
   width: 100vw;
   height: 100vh;
-  background-color: var(--color-secondary);
+
   z-index: 99999;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1252,8 +1242,9 @@ textarea {
 }
 
 #preloader #loading-center {
-  width: 200px;
-  height: 200px;
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #048023; /* Dark Green */
+  border-radius: 50%;
 }
 
 #preloader #object {
