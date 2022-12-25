@@ -18,16 +18,14 @@ const TeamPage = () => {
                 <div className="skill-content pl-xl-3">
                   <div className="section-heading mb-20">
                     <h2 className="title">
-                      We’re Very Experience In Digital marketing
+                    Nguyễn Công Nhã 
                     </h2>
                     <span className="tagline">
-                      Best Digital Agency Solutions
+                    Chủ tịch Hội đồng thành viên 
                     </span>
                   </div>
                   <p>
-                    Neque porro quisquam est, qui dolorem ipsum quia dolor amet
-                    consectetur adipisci velitsed quia non numquam eius modi
-                    tempra labore et dolore magnam aliquam quaerat voluptatem
+                  Kinh nghiệm trên mười năm Giám đốc điều hành, vận hành doanh nghiệp; tư vấn thuế cho các doanh nghiệp khác.
                   </p>
                   <div className="skill-progress-bars">
                     <div className="progress-bar-item mt-35">
@@ -101,9 +99,9 @@ const TeamPage = () => {
                   </ul>
                 </div>
                 <h4 className="name">
-                  <a href="#">Geraldo M. Lundy</a>
+                  <a href="#">Trần Đình Khôi</a>
                 </h4>
-                <span className="title">Senior Manager</span>
+                <span className="title">Thành viên Hội đồng thành viên, Ban cố vấn</span>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
@@ -134,9 +132,9 @@ const TeamPage = () => {
                   </ul>
                 </div>
                 <h4 className="name">
-                  <a href="#">Sevin P. Gonzalez</a>
+                  <a href="#">Dương Minh Đức</a>
                 </h4>
-                <span className="title">Senior Manager</span>
+                <span className="title">Ban cố vấn</span>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
@@ -167,207 +165,9 @@ const TeamPage = () => {
                   </ul>
                 </div>
                 <h4 className="name">
-                  <a href="#">Michael K. Walker</a>
+                  <a href="#">Nguyễn Thanh Quý </a>
                 </h4>
-                <span className="title">Senior Manager</span>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
-              <div className="member-item mt-30">
-                <div className="member-photo">
-                  <img src="../assets/img/team-member/04.jpg" alt="Image One" />
-                  <ul className="social-icons">
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-facebook-f" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-youtube" />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <h4 className="name">
-                  <a href="#">Geraldo M. Lundy</a>
-                </h4>
-                <span className="title">Senior Manager</span>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
-              <div className="member-item mt-30">
-                <div className="member-photo">
-                  <img src="../assets/img/team-member/05.jpg" alt="Image One" />
-                  <ul className="social-icons">
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-facebook-f" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-youtube" />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <h4 className="name">
-                  <a href="#">Steven H. Brown</a>
-                </h4>
-                <span className="title">Senior Manager</span>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
-              <div className="member-item mt-30">
-                <div className="member-photo">
-                  <img src="../assets/img/team-member/06.jpg" alt="Image One" />
-                  <ul className="social-icons">
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-facebook-f" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-youtube" />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <h4 className="name">
-                  <a href="#">Dana J. Bingham</a>
-                </h4>
-                <span className="title">Senior Manager</span>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
-              <div className="member-item mt-30">
-                <div className="member-photo">
-                  <img src="../assets/img/team-member/07.jpg" alt="Image One" />
-                  <ul className="social-icons">
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-facebook-f" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-youtube" />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <h4 className="name">
-                  <a href="#">Russell K. McCormick</a>
-                </h4>
-                <span className="title">Senior Manager</span>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
-              <div className="member-item mt-30">
-                <div className="member-photo">
-                  <img src="../assets/img/team-member/08.jpg" alt="Image One" />
-                  <ul className="social-icons">
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-facebook-f" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-youtube" />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <h4 className="name">
-                  <a href="#">Michael H. Thompson</a>
-                </h4>
-                <span className="title">Senior Manager</span>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6 wow fadeInUp">
-              <div className="member-item mt-30">
-                <div className="member-photo">
-                  <img src="../assets/img/team-member/09.jpg" alt="Image One" />
-                  <ul className="social-icons">
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-facebook-f" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-linkedin-in" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fab fa-youtube" />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-                <h4 className="name">
-                  <a href="#">Richard K. Funderburk</a>
-                </h4>
-                <span className="title">Senior Manager</span>
+                <span className="title">Kế toán trưởng</span>
               </div>
             </div>
           </div>
