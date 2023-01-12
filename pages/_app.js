@@ -5,7 +5,6 @@ import "../styles/globals.css";
 function MyApp({ Component, pageProps }) {
   return (
     <Fragment>
-      <PreLoader />
       <Component {...pageProps} />
     </Fragment>
   );
